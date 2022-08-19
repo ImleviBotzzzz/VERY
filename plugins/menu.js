@@ -289,7 +289,7 @@ const listMessage = {
   footer: '📮 *Ⓝⓞⓣⓔ:* ʙᴏᴛ ɪɴɪ ᴍᴀsɪʜ ᴅᴀʟᴀᴍ ᴘᴇɴɢᴇᴍʙᴀɴɢᴀɴ ᴊɪᴋᴀ ᴍᴇɴᴇᴍᴜᴋᴀɴ ʙᴜɢ/ᴇʀʀᴏʀ sɪʟᴀʜᴋᴀɴ ʟᴀᴘᴏʀᴋᴀɴ ᴋᴇᴘᴀᴅᴀ ᴏᴡɴᴇʀ😊',
   mentions: await conn.parseMention(tek),
   title: `${htki} *𝙻𝚒𝚜𝚝 𝙼𝚎𝚗𝚞* ${htka}`,
-  buttonText: `кℓιк ᴅɪsɪɴɪ кαк ⎙`, 
+  buttonText: `𝙺𝙻𝙸𝙺 𝙳𝙸𝚂𝙸𝙽𝙸 𝙺𝙰𝙺 ⎙`, 
   sections
 }
   if (teks == '404') {
@@ -495,7 +495,7 @@ const listMessage = {
             fileLength: fsizedoc,
             pageCount: fpagedoc,
             caption: text,
-            footer: titlebot + '\n⚡ Supported By FR Team',
+            footer: titlebot + '\n⚡ Supported By VEN BOT',
             templateButtons: [
                 {
                     urlButton: {
