@@ -11,25 +11,26 @@ let handler  = async (m, { conn, command, args, usedPrefix, DevMode }) => {
 ------- ${nameown} -------
 
 📮 *Note:*
-• Owner tidak menerima save contact
+• Owner menerima sv kontak
 • Owner berhak blockir tanpa alasan
 • Berbicaralah yang sopan & tidak spam
 • Owner Hanya merespon yang berkaitan dengan BOT
-• No Telp`
+• No Telp
+• No chat ga jelas`
 
 //------------ BIO
 let ppown = 'https://telegra.ph/file/cce9ab4551f7150f1970d.jpg'
 let teksbio = `${htki} *BIODATA* ${htka}
-${htjava} *💌 Nama* : Yan Xiao
-${htjava} *✉️ Nama RL* : Rahasia🗿
+${htjava} *💌 Nama* : VEN BOT
+${htjava} *✉️ Nama RL* : levi adnansyah
 ${htjava} *♂️ Gender* : Boys
 ${htjava} *🕋 Agama* : Islam
-${htjava} *⏰ Tanggal lahir* : 15 Oktober 2004
-${htjava} *🎨 Umur* : 17
-${htjava} *🧮 Kelas* : 12
+${htjava} *⏰ Tanggal lahir* : 7 Desember 2007
+${htjava} *🎨 Umur* : 14
+${htjava} *🧮 Kelas* : 7
 ${htjava} *🧩 Hobby* : Nonton Donghua, Chatting, Musik, Recode script bot
 ${htjava} *💬 Sifat* : Idiot, Tidak Ramah, Bilek, Prik, Nolep
-${htjava} *🗺️ Tinggal* : Indo, Tulungagung, Jawa Timur
+${htjava} *🗺️ Tinggal* : Indo, Berau, Kalimantan timur
 ${htjava} *❤️ Suka* : kucing
 ${htjava} *💔 Benci* : autis, seleb
 
