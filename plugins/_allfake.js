@@ -24,8 +24,8 @@ handler.all = async function (m) {
         
 		// Ini untuk command crator/owner
 		global.kontak2 = [
-         [owner[0], await conn.getName(owner[0] + '@s.whatsapp.net'), ' ', 'yanxiao021@gmail.com', true],
-         [owner[1], await conn.getName(owner[1] + '@s.whatsapp.net'), ' ', 'yanxiao021@gmail.com', true], // Kalo mau di tambah tinggal copy 1baris ini di tempel di bawahnya trs di edit dikit!
+         [owner[0], await conn.getName(owner[0] + '@s.whatsapp.net'), ' ', 'leviadnansyahlevi@gmail.com', true],
+         [owner[1], await conn.getName(owner[1] + '@s.whatsapp.net'), ' ', 'leviadnansyahlevi@gmail.com', true], // Kalo mau di tambah tinggal copy 1baris ini di tempel di bawahnya trs di edit dikit!
         ]
         
 		// ucapan ini mah
@@ -45,19 +45,19 @@ handler.all = async function (m) {
 					title: global.ucapan,
 					body: wm,
 					mediaUrl: sgc,
-					description: 'Elaina-MultiDevice',
+					description: 'VEN BOT-MultiDevice',
 					previewType: "PHOTO",
 					thumbnail: await (await fetch(urls)).buffer(),
-					sourceUrl: "https://github.com/ImYanXiao",					
+					sourceUrl: "https://github.com/ImleviOfc",					
 				}
 			}
 		}
 		global.fakeig = {
          contextInfo: { externalAdReply: { showAdAttribution: true,
-            mediaUrl: "https://Instagram.com/Xiao_yan_21",
+            mediaUrl: "https://instagram.com/imleviofc?igshid=YmMyMTA2M2Y=",
             mediaType: "VIDEO",
-            description: "https://Instagram.com/Xiao_yan_21", 
-            title: 'Elaina-MultiDevice',
+            description: "https://instagram.com/imleviofc?igshid=YmMyMTA2M2Y=", 
+            title: 'VEN BOT-MultiDevice',
             body: wm,
             thumbnailUrl: pp,
             sourceUrl: sgc
@@ -65,10 +65,10 @@ handler.all = async function (m) {
     } }
 global.fakefb = {
          contextInfo: { externalAdReply: { showAdAttribution: true,
-            mediaUrl: "https://Facebook.com/Fay.cats.Kun",
+            mediaUrl: "https://www.facebook.com/erdiansyah.teddy.3",
             mediaType: "VIDEO",
-            description: "https://www.Facebook.com/Fay.cats.kun", 
-            title: 'Elaina-MultiDevice',
+            description: "https://www.facebook.com/erdiansyah.teddy.3", 
+            title: 'VEN BOT-MultiDevice',
             body: wm,
             thumbnailUrl: pp,
             sourceUrl: sgc
@@ -112,7 +112,7 @@ global.fakefb = {
             { fromMe: false,
             participant: `0@s.whatsapp.net`, ...(m.chat  ? 
             { remoteJid: "status@broadcast" } : {}) },
-            message: { "liveLocationMessage": { "caption":"by : ImYanXiao","h": `${wm}`, 'jpegThumbnail': fs.readFileSync('./thumbnail.jpg')}}
+            message: { "liveLocationMessage": { "caption":"by : 𝙸𝚖𝚕𝚎𝚟𝚒𝙾𝚏𝚌","h": `${wm}`, 'jpegThumbnail': fs.readFileSync('./thumbnail.jpg')}}
            }
                
                   global.fliveLoc2 = {
@@ -120,7 +120,7 @@ global.fakefb = {
             { fromMe: false,
             participant: `0@s.whatsapp.net`, ...(m.chat ? 
             { remoteJid: "status@broadcast" } : {}) },
-            message: { "liveLocationMessage": { "title": "ImYanXiao","h": wm, 'jpegThumbnail': fs.readFileSync('./thumbnail.jpg')}}
+            message: { "liveLocationMessage": { "title": "𝙸𝚖𝚕𝚎𝚟𝚒𝙾𝚏𝚌","h": wm, 'jpegThumbnail': fs.readFileSync('./thumbnail.jpg')}}
            }
                
                    global.ftoko = {
@@ -169,7 +169,7 @@ global.fakefb = {
                "groupInviteMessage": {
                    "groupJid": "6285736178354-1625305606@g.us",
                    "inviteCode": "null",
-                   "groupName": "Kawan Elaina", 
+                   "groupName": "VEN BOT", 
                    "caption": wm, 
                    'jpegThumbnail': fs.readFileSync('./thumbnail.jpg')
                }
