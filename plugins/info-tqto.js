@@ -56,6 +56,8 @@ https://github.com/FahriAdison
 *▸ - - - —「 Penulis Ulang 」— - - - ◂*
 *❉ ImYanXiao:*
 https://github.com/ImYanXiao
+*❉ 𝙸𝚖𝚕𝚎𝚟𝚒𝙾𝚏𝚌:*
+https://github.com/ImleviOfc
 *▸ - - - —「 Thanks For Suhu 」— - - - ◂*
 *❉ Kannachan:*
 *❉ The.sadboy01
@@ -66,10 +68,10 @@ https://github.com/ImYanXiao
 
 `
 conn.sendButtonDoc(m.chat, tqto, wm,'Thanks','Bilek', m, { contextInfo: { externalAdReply: { showAdAttribution: true,
-    mediaUrl: "https://Instagram.com/Xiao_yan_21",
+    mediaUrl: "https://instagram.com/imleviofc?igshid=YmMyMTA2M2Y=",
     mediaType: "VIDEO",
-    description: "https://Instagram.com/Xiao_yan_21", 
-    title: 'Kanna-MultiDevice',
+    description: "https://instagram.com/imleviofc?igshid=YmMyMTA2M2Y=", 
+    title: 'VEN BOT-MultiDevice',
     body: wm,
     thumbnail: thumb,
     sourceUrl: sgc
